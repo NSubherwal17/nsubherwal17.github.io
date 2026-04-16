@@ -4,16 +4,20 @@ By downloading, installing, or using My Health My Meds, you acknowledge that you
 ### Medical Disclaimer
 This application is intended solely as a personal health tracking and organizational tool for informational purposes only. It is NOT a medical device, and it does NOT constitute medical advice, medical diagnosis, medical treatment, or a substitute for professional medical care.
 Always seek the advice of your licensed physician, cardiologist, or other qualified healthcare provider regarding any medical condition, symptom, or change in your health status. Never disregard, delay, or avoid professional medical advice because of anything you have read, recorded, or calculated within this application.
+
 If you believe you are experiencing a medical emergency, call 911 or your local emergency number immediately.
+
 Weight thresholds, alert values, dietary targets, and medication references displayed in this app are general reference information only and may not be appropriate for your individual condition. Your healthcare provider's personalized instructions always take precedence.
 ### Limitation of Liability
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHORS, DEVELOPERS, DESIGNERS, CONTRIBUTORS, AND DISTRIBUTORS OF MY HEALTH MY MEDS (COLLECTIVELY, "THE AUTHORS") SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF, OR INABILITY TO USE, THIS APPLICATION.
+
 This limitation applies to all claims, whether based in contract, tort (including negligence), strict liability, or any other legal theory, and whether or not the Authors have been advised of the possibility of such damages, including but not limited to:
 - Loss of life, personal injury, or worsening of a medical condition
 - Reliance on any data, alert, recommendation, or calculation displayed in the app
 - Errors, inaccuracies, or omissions in app content or functionality
 - Interruption, suspension, or termination of the app or any of its features
 - Loss or corruption of data entered into the application
+
 This application is provided on an "AS IS" and "AS AVAILABLE" basis without warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, or non-infringement.
 ### Indemnification
 You agree to defend, indemnify, and hold harmless the Authors from and against any and all claims, damages, losses, costs, liabilities, and expenses (including reasonable attorneys' fees) arising out of or related to:
