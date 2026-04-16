@@ -26,15 +26,18 @@ You agree to defend, indemnify, and hold harmless the Authors from and against a
 - Your violation of these Terms of Use
 - Your violation of any third-party right, including any privacy, intellectual property, or proprietary right
 - Any claim that your use of the app caused damage to a third party
+
 This indemnification obligation will survive the termination of your use of the application and these Terms of Use.
 ### Intellectual Property Rights
 All content, features, functionality, source code, user interface design, graphics, text, data structures, algorithms, and branding contained in My Health My Meds are the exclusive intellectual property of the Authors and are protected by applicable copyright, trademark, patent, trade secret, and other intellectual property laws.
+
 You are granted a limited, non-exclusive, non-transferable, revocable license to use this application solely for your own personal, non-commercial health tracking purposes. This license does not grant you any right to:
 - Copy, reproduce, modify, adapt, translate, or create derivative works
 - Reverse engineer, decompile, disassemble, or attempt to extract source code
 - Sell, sublicense, rent, lease, transfer, or distribute the application
 - Remove or alter any copyright, trademark, or other proprietary notices
 - Use the application's name, logo, or branding for any commercial purpose
+
 Any unauthorized use of the application's intellectual property is a material breach of these Terms of Use and may violate applicable law.
 ### Force Majeure
 The Authors shall not be liable for any failure or delay in performing their obligations under these Terms, or for any loss or damage you suffer, where such failure, delay, loss, or damage arises from or is attributable to causes beyond the Authors' reasonable control, including but not limited to:
@@ -44,17 +47,23 @@ The Authors shall not be liable for any failure or delay in performing their obl
 - Failure of third-party infrastructure, internet services, or Apple platform services
 - Power outages, data center failures, or cybersecurity incidents
 - Changes to Apple App Store policies, iOS operating system updates, or HealthKit API availability
+
 In such circumstances, the Authors' obligations will be suspended for as long as the force majeure event continues.
 ### Privacy & Data Storage
 All health data you enter into this application is stored locally on your device only. The Authors do not collect, transmit, store on remote servers, sell, or share your personal health information with any third party.
+
 Data read from Apple HealthKit remains subject to Apple's privacy framework and your device's Health app permissions. You are solely responsible for managing access permissions granted to this app through iOS Settings.
+
 The Authors are not responsible for any unauthorized access to data stored on your device resulting from loss, theft, or compromise of your device.
 ### Governing Law & Dispute Resolution
 These Terms of Use shall be governed by and construed in accordance with the laws of the United States of America, without regard to conflict of law principles. Any dispute arising from or related to these Terms or your use of this application shall first be attempted to be resolved through good-faith negotiation.
+
 If a dispute cannot be resolved informally, it shall be submitted to binding arbitration in accordance with the rules of the American Arbitration Association. You waive any right to participate in a class action lawsuit or class-wide arbitration against the Authors.
+
 If any provision of these Terms is found to be unenforceable by a court of competent jurisdiction, the remaining provisions shall continue in full force and effect.
 ### Changes to Terms
 The Authors reserve the right to modify these Terms of Use at any time. Continued use of the application after any such changes constitutes your acceptance of the new Terms. It is your responsibility to review these Terms periodically.
+
 Last revised: April 2026
 
 > [!IMPORTANT]
