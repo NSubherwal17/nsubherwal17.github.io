@@ -68,4 +68,5 @@ Last revised: April 2026
 
 > [!IMPORTANT]
 > By using this app, you acknowledge that you have read and agree to all terms above. If you have questions about these Terms, please consult a qualified legal professional.
+>
 > Please direct questions, comments, and feedback to myhealthmymeds@gmail.com.
